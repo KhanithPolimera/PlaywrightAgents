@@ -1,0 +1,8 @@
+[  -10796ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://itms.gctp.in/:0
+[   -5009ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ https://itms.gctp.in/api/fusion-patrol-service/status-list:0
+[   -5008ms] [ERROR] ApiError: Request failed with status code 404
+    at M (https://itms.gctp.in/static/js/main.16163307.js:2:711475)
+    at Y (https://itms.gctp.in/static/js/main.16163307.js:2:711828)
+    at async Object.fetchStatusesApi (https://itms.gctp.in/static/js/main.16163307.js:2:62227) @ https://itms.gctp.in/static/js/main.16163307.js:1
+[   68977ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ https://itms.gctp.in/api/fusion-configuration-service/gis-entity-boundary/2:0
+[   95074ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ https://itms.gctp.in/api/fusion-configuration-service/gis-entity-boundary/2:0

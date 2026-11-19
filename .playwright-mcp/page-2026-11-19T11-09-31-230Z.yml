@@ -1,0 +1,207 @@
+- generic [ref=e4]:
+  - banner [ref=e6]:
+    - generic [ref=e7]:
+      - button "menu" [ref=e559] [cursor=pointer]
+      - generic [ref=e11]:
+        - img "Nature" [ref=e560]
+        - generic [ref=e13]:
+          - generic [ref=e14]: INTEGRATED TRAFFIC MANAGEMENT SYSTEM
+          - generic [ref=e15]: ஒருங்கிணைந்த போக்குவரத்து மேலாண்மை அமைப்பு
+      - generic [ref=e16]:
+        - button "INDIA" [ref=e561] [cursor=pointer]
+        - generic [ref=e25]:
+          - combobox [ref=e26] [cursor=pointer]: English
+          - textbox [aria-hidden]: en
+        - button [ref=e562] [cursor=pointer]:
+          - generic [ref=e28]:
+            - img "SOS" [ref=e563]
+            - generic: "0"
+        - button "incident notifications" [ref=e564] [cursor=pointer]:
+          - generic [ref=e31]: "0"
+        - button "theme" [ref=e565] [cursor=pointer]
+        - button "account of current user" [ref=e566] [cursor=pointer]
+  - generic [ref=e40]:
+    - generic [ref=e41]:
+      - generic [ref=e42]: INCIDENT MANAGEMENT
+      - tablist [ref=e45]:
+        - tab "INCIDENTS" [ref=e567] [cursor=pointer]
+        - tab "SOP List" [selected] [ref=e568] [cursor=pointer]
+        - tab "Step Types" [ref=e569] [cursor=pointer]
+      - generic [ref=e50]: 19-11-2026 04:39 PM
+    - generic [ref=e189]:
+      - button "Create SOP" [ref=e570] [cursor=pointer]
+      - generic [ref=e196]:
+        - toolbar "Table Toolbar" [ref=e571]:
+          - heading [level=6] [ref=e200]: SOP List
+          - generic [ref=e201]:
+            - button "Search" [ref=e572] [cursor=pointer]
+            - button "Download CSV" [ref=e573] [cursor=pointer]
+            - button "View Columns" [active] [ref=e574] [cursor=pointer]
+            - button "Filter Table" [ref=e575] [cursor=pointer]
+        - grid "SOP List" [ref=e576]:
+          - caption [ref=e218]: SOP List
+          - rowgroup [ref=e219]:
+            - row [ref=e577]:
+              - columnheader "S.no" [ref=e578]
+              - columnheader "SOP ID" [ref=e579]
+              - columnheader "SOP Name" [ref=e580]
+              - columnheader "Description" [ref=e581]
+              - columnheader "Category" [ref=e582]
+              - columnheader "Sub Category" [ref=e583]
+              - columnheader "Created Date & Time" [ref=e584]
+              - columnheader "Modified Date & Time" [ref=e585]
+              - columnheader "Options" [ref=e586]
+          - rowgroup [ref=e230]:
+            - row [ref=e587]:
+              - gridcell "1" [ref=e588]
+              - gridcell "SOP3" [ref=e589]
+              - gridcell "UNATTEND OBJECT" [ref=e590]
+              - gridcell "UNATTEND OBJECT" [ref=e591]
+              - gridcell "UNATTENDED OBJECT" [ref=e592]
+              - gridcell "UNATTENDED OBJECT" [ref=e593]
+              - gridcell "12-11-2024 03:10 PM" [ref=e594]
+              - gridcell "13-10-2026 05:05 PM" [ref=e595]
+              - gridcell [ref=e596]:
+                - generic [ref=e249]:
+                  - img "Edit SOP" [ref=e597] [cursor=pointer]
+                  - img "View SOP" [ref=e598] [cursor=pointer]
+                  - img "Delete SOP" [ref=e599] [cursor=pointer]
+            - row [ref=e600]:
+              - gridcell "2" [ref=e601]
+              - gridcell "SOP93" [ref=e602]
+              - gridcell "CONGESTION" [ref=e603]
+              - gridcell "CONGESTION" [ref=e604]
+              - gridcell "CONGESTION" [ref=e605]
+              - gridcell "CONGESTION" [ref=e606]
+              - gridcell "07-04-2026 02:59 PM" [ref=e607]
+              - gridcell "03-09-2026 01:02 PM" [ref=e608]
+              - gridcell [ref=e609]:
+                - generic [ref=e274]:
+                  - img "Edit SOP" [ref=e610] [cursor=pointer]
+                  - img "View SOP" [ref=e611] [cursor=pointer]
+                  - img "Delete SOP" [ref=e612] [cursor=pointer]
+            - row [ref=e613]:
+              - gridcell "3" [ref=e614]
+              - gridcell "SOP70" [ref=e615]
+              - gridcell "PEOPLE ON ROAD" [ref=e616]
+              - gridcell "PEOPLE ON ROAD" [ref=e617]
+              - gridcell "PEOPLE ON ROAD" [ref=e618]
+              - gridcell "PEOPLE ON ROAD" [ref=e619]
+              - gridcell "16-12-2025 03:20 PM" [ref=e620]
+              - gridcell "29-04-2026 02:53 PM" [ref=e621]
+              - gridcell [ref=e622]:
+                - generic [ref=e299]:
+                  - img "Edit SOP" [ref=e623] [cursor=pointer]
+                  - img "View SOP" [ref=e624] [cursor=pointer]
+                  - img "Delete SOP" [ref=e625] [cursor=pointer]
+            - row [ref=e626]:
+              - gridcell "4" [ref=e627]
+              - gridcell "SOP95" [ref=e628]
+              - gridcell "GRIEVANCE" [ref=e629]
+              - gridcell "GRIEVANCE" [ref=e630]
+              - gridcell "COMPLAINT" [ref=e631]
+              - gridcell "GRIEVANCE" [ref=e632]
+              - gridcell "07-04-2026 03:57 PM" [ref=e633]
+              - gridcell "07-04-2026 03:58 PM" [ref=e634]
+              - gridcell [ref=e635]:
+                - generic [ref=e324]:
+                  - img "Edit SOP" [ref=e636] [cursor=pointer]
+                  - img "View SOP" [ref=e637] [cursor=pointer]
+                  - img "Delete SOP" [ref=e638] [cursor=pointer]
+            - row [ref=e639]:
+              - gridcell "5" [ref=e640]
+              - gridcell "SOP69" [ref=e641]
+              - gridcell "FIRE ACCIDENT" [ref=e642]
+              - gridcell "FIRE ACCIDENT" [ref=e643]
+              - gridcell "FIRE ACCIDENT" [ref=e644]
+              - gridcell "FIRE ACCIDENT" [ref=e645]
+              - gridcell "16-12-2025 12:22 PM" [ref=e646]
+              - gridcell "07-04-2026 03:53 PM" [ref=e647]
+              - gridcell [ref=e648]:
+                - generic [ref=e349]:
+                  - img "Edit SOP" [ref=e649] [cursor=pointer]
+                  - img "View SOP" [ref=e650] [cursor=pointer]
+                  - img "Delete SOP" [ref=e651] [cursor=pointer]
+            - row [ref=e652]:
+              - gridcell "6" [ref=e653]
+              - gridcell "SOP9" [ref=e654]
+              - gridcell "CRITICAL" [ref=e655]
+              - gridcell "CRITICAL EMERGENCY" [ref=e656]
+              - gridcell "EMERGENCY" [ref=e657]
+              - gridcell "CRITICAL" [ref=e658]
+              - gridcell "13-09-2025 10:56 PM" [ref=e659]
+              - gridcell "07-04-2026 03:53 PM" [ref=e660]
+              - gridcell [ref=e661]:
+                - generic [ref=e374]:
+                  - img "Edit SOP" [ref=e662] [cursor=pointer]
+                  - img "View SOP" [ref=e663] [cursor=pointer]
+                  - img "Delete SOP" [ref=e664] [cursor=pointer]
+            - row [ref=e665]:
+              - gridcell "7" [ref=e666]
+              - gridcell "SOP71" [ref=e667]
+              - gridcell "AMBULANCE REQUIRED" [ref=e668]
+              - gridcell "AMBULANCE REQUIRED" [ref=e669]
+              - gridcell "AMBULANCE REQUIRED" [ref=e670]
+              - gridcell "AMBULANCE REQUIRED" [ref=e671]
+              - gridcell "19-12-2025 05:11 PM" [ref=e672]
+              - gridcell "07-04-2026 03:52 PM" [ref=e673]
+              - gridcell [ref=e674]:
+                - generic [ref=e399]:
+                  - img "Edit SOP" [ref=e675] [cursor=pointer]
+                  - img "View SOP" [ref=e676] [cursor=pointer]
+                  - img "Delete SOP" [ref=e677] [cursor=pointer]
+            - row [ref=e678]:
+              - gridcell "8" [ref=e679]
+              - gridcell "SOP94" [ref=e680]
+              - gridcell "NO PARKING" [ref=e681]
+              - gridcell "NO PARKING" [ref=e682]
+              - gridcell "NO PARKING" [ref=e683]
+              - gridcell "NO PARKING" [ref=e684]
+              - gridcell "07-04-2026 03:49 PM" [ref=e685]
+              - gridcell "07-04-2026 03:50 PM" [ref=e686]
+              - gridcell [ref=e687]:
+                - generic [ref=e424]:
+                  - img "Edit SOP" [ref=e688] [cursor=pointer]
+                  - img "View SOP" [ref=e689] [cursor=pointer]
+                  - img "Delete SOP" [ref=e690] [cursor=pointer]
+            - row [ref=e691]:
+              - gridcell "9" [ref=e692]
+              - gridcell "SOP92" [ref=e693]
+              - gridcell "BUS OVER SPEED" [ref=e694]
+              - gridcell "BUS OVER SPEED" [ref=e695]
+              - gridcell "BUS OVER SPEED" [ref=e696]
+              - gridcell "BUS OVER SPEED" [ref=e697]
+              - gridcell "07-04-2026 02:56 PM" [ref=e698]
+              - gridcell "07-04-2026 02:58 PM" [ref=e699]
+              - gridcell [ref=e700]:
+                - generic [ref=e449]:
+                  - img "Edit SOP" [ref=e701] [cursor=pointer]
+                  - img "View SOP" [ref=e702] [cursor=pointer]
+                  - img "Delete SOP" [ref=e703] [cursor=pointer]
+            - row [ref=e704]:
+              - gridcell "10" [ref=e705]
+              - gridcell "SOP91" [ref=e706]
+              - gridcell "RALLIES/PROTEST" [ref=e707]
+              - gridcell "RALLIES/PROTEST" [ref=e708]
+              - gridcell "RALLIES/PROTEST" [ref=e709]
+              - gridcell "RALLIES/PROTEST" [ref=e710]
+              - gridcell "07-04-2026 02:55 PM" [ref=e711]
+              - gridcell "07-04-2026 02:56 PM" [ref=e712]
+              - gridcell [ref=e713]:
+                - generic [ref=e474]:
+                  - img "Edit SOP" [ref=e714] [cursor=pointer]
+                  - img "View SOP" [ref=e715] [cursor=pointer]
+                  - img "Delete SOP" [ref=e716] [cursor=pointer]
+        - table [ref=e481]:
+          - rowgroup [ref=e482]:
+            - row [ref=e717]:
+              - cell [ref=e718]:
+                - generic [ref=e487]:
+                  - paragraph [ref=e488]: "Rows per page:"
+                  - generic [ref=e489]:
+                    - 'combobox "Rows per page: 10" [ref=e719] [cursor=pointer]': "10"
+                    - textbox [aria-hidden]: "10"
+                  - paragraph [ref=e491]: 1-10 of 25
+                  - generic [ref=e492]:
+                    - button "Previous Page" [disabled]
+                    - button "Next Page" [ref=e720] [cursor=pointer]

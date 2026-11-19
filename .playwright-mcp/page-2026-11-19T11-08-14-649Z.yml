@@ -1,0 +1,315 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - banner [ref=e6]:
+      - generic [ref=e7]:
+        - button [ref=e178] [cursor=pointer]
+        - generic [ref=e13]:
+          - generic [ref=e14]: INTEGRATED TRAFFIC MANAGEMENT SYSTEM
+          - generic [ref=e15]: ஒருங்கிணைந்த போக்குவரத்து மேலாண்மை அமைப்பு
+        - generic [ref=e16]:
+          - button [ref=e180] [cursor=pointer]:
+            - generic [ref=e19]: INDIA
+          - generic [ref=e25]:
+            - combobox [ref=e26] [cursor=pointer]: English
+            - textbox [aria-hidden]: en
+          - button [ref=e181] [cursor=pointer]
+          - button [ref=e183] [cursor=pointer]
+          - button [ref=e184] [cursor=pointer]
+          - button [ref=e185] [cursor=pointer]
+    - generic [ref=e40]:
+      - generic [ref=e41]:
+        - generic [ref=e42]: INCIDENT MANAGEMENT
+        - tablist [ref=e45]:
+          - tab [ref=e186] [cursor=pointer]: INCIDENTS
+          - tab [selected] [ref=e187] [cursor=pointer]: SOP List
+          - tab [ref=e188] [cursor=pointer]: Step Types
+        - generic [ref=e50]: 19-11-2026 04:38 PM
+      - generic [ref=e189]:
+        - button [ref=e192] [cursor=pointer]: Create SOP
+        - generic [ref=e196]:
+          - toolbar [ref=e197]:
+            - heading [level=6] [ref=e200]: SOP List
+            - generic [ref=e201]:
+              - button [ref=e202] [cursor=pointer]
+              - button [ref=e205] [cursor=pointer]
+              - button [ref=e209] [cursor=pointer]
+              - button [ref=e213] [cursor=pointer]
+          - grid [ref=e217]:
+            - caption [ref=e218]: SOP List
+            - rowgroup [ref=e219]:
+              - row [ref=e220]:
+                - columnheader [ref=e221]: S.no
+                - columnheader [ref=e222]: SOP ID
+                - columnheader [ref=e223]: SOP Name
+                - columnheader [ref=e224]: Description
+                - columnheader [ref=e225]: Category
+                - columnheader [ref=e226]: Sub Category
+                - columnheader [ref=e227]: Created Date & Time
+                - columnheader [ref=e228]: Modified Date & Time
+                - columnheader [ref=e229]: Options
+            - rowgroup [ref=e230]:
+              - row [ref=e231]:
+                - gridcell [ref=e232]:
+                  - generic [ref=e233]: "1"
+                - gridcell [ref=e234]:
+                  - generic [ref=e235]: SOP3
+                - gridcell [ref=e236]:
+                  - generic [ref=e237]: UNATTEND OBJECT
+                - gridcell [ref=e238]:
+                  - generic [ref=e239]: UNATTEND OBJECT
+                - gridcell [ref=e240]:
+                  - generic [ref=e241]: UNATTENDED OBJECT
+                - gridcell [ref=e242]:
+                  - generic [ref=e243]: UNATTENDED OBJECT
+                - gridcell [ref=e244]:
+                  - generic [ref=e245]: 12-11-2024 03:10 PM
+                - gridcell [ref=e246]:
+                  - generic [ref=e247]: 13-10-2026 05:05 PM
+                - gridcell [ref=e248]:
+                  - generic [ref=e249]:
+                    - img [ref=e250] [cursor=pointer]
+                    - img [ref=e252] [cursor=pointer]
+                    - img [ref=e254] [cursor=pointer]
+              - row [ref=e256]:
+                - gridcell [ref=e257]:
+                  - generic [ref=e258]: "2"
+                - gridcell [ref=e259]:
+                  - generic [ref=e260]: SOP93
+                - gridcell [ref=e261]:
+                  - generic [ref=e262]: CONGESTION
+                - gridcell [ref=e263]:
+                  - generic [ref=e264]: CONGESTION
+                - gridcell [ref=e265]:
+                  - generic [ref=e266]: CONGESTION
+                - gridcell [ref=e267]:
+                  - generic [ref=e268]: CONGESTION
+                - gridcell [ref=e269]:
+                  - generic [ref=e270]: 07-04-2026 02:59 PM
+                - gridcell [ref=e271]:
+                  - generic [ref=e272]: 03-09-2026 01:02 PM
+                - gridcell [ref=e273]:
+                  - generic [ref=e274]:
+                    - img [ref=e275] [cursor=pointer]
+                    - img [ref=e277] [cursor=pointer]
+                    - img [ref=e279] [cursor=pointer]
+              - row [ref=e281]:
+                - gridcell [ref=e282]:
+                  - generic [ref=e283]: "3"
+                - gridcell [ref=e284]:
+                  - generic [ref=e285]: SOP70
+                - gridcell [ref=e286]:
+                  - generic [ref=e287]: PEOPLE ON ROAD
+                - gridcell [ref=e288]:
+                  - generic [ref=e289]: PEOPLE ON ROAD
+                - gridcell [ref=e290]:
+                  - generic [ref=e291]: PEOPLE ON ROAD
+                - gridcell [ref=e292]:
+                  - generic [ref=e293]: PEOPLE ON ROAD
+                - gridcell [ref=e294]:
+                  - generic [ref=e295]: 16-12-2025 03:20 PM
+                - gridcell [ref=e296]:
+                  - generic [ref=e297]: 29-04-2026 02:53 PM
+                - gridcell [ref=e298]:
+                  - generic [ref=e299]:
+                    - img [ref=e300] [cursor=pointer]
+                    - img [ref=e302] [cursor=pointer]
+                    - img [ref=e304] [cursor=pointer]
+              - row [ref=e306]:
+                - gridcell [ref=e307]:
+                  - generic [ref=e308]: "4"
+                - gridcell [ref=e309]:
+                  - generic [ref=e310]: SOP95
+                - gridcell [ref=e311]:
+                  - generic [ref=e312]: GRIEVANCE
+                - gridcell [ref=e313]:
+                  - generic [ref=e314]: GRIEVANCE
+                - gridcell [ref=e315]:
+                  - generic [ref=e316]: COMPLAINT
+                - gridcell [ref=e317]:
+                  - generic [ref=e318]: GRIEVANCE
+                - gridcell [ref=e319]:
+                  - generic [ref=e320]: 07-04-2026 03:57 PM
+                - gridcell [ref=e321]:
+                  - generic [ref=e322]: 07-04-2026 03:58 PM
+                - gridcell [ref=e323]:
+                  - generic [ref=e324]:
+                    - img [ref=e325] [cursor=pointer]
+                    - img [ref=e327] [cursor=pointer]
+                    - img [ref=e329] [cursor=pointer]
+              - row [ref=e331]:
+                - gridcell [ref=e332]:
+                  - generic [ref=e333]: "5"
+                - gridcell [ref=e334]:
+                  - generic [ref=e335]: SOP69
+                - gridcell [ref=e336]:
+                  - generic [ref=e337]: FIRE ACCIDENT
+                - gridcell [ref=e338]:
+                  - generic [ref=e339]: FIRE ACCIDENT
+                - gridcell [ref=e340]:
+                  - generic [ref=e341]: FIRE ACCIDENT
+                - gridcell [ref=e342]:
+                  - generic [ref=e343]: FIRE ACCIDENT
+                - gridcell [ref=e344]:
+                  - generic [ref=e345]: 16-12-2025 12:22 PM
+                - gridcell [ref=e346]:
+                  - generic [ref=e347]: 07-04-2026 03:53 PM
+                - gridcell [ref=e348]:
+                  - generic [ref=e349]:
+                    - img [ref=e350] [cursor=pointer]
+                    - img [ref=e352] [cursor=pointer]
+                    - img [ref=e354] [cursor=pointer]
+              - row [ref=e356]:
+                - gridcell [ref=e357]:
+                  - generic [ref=e358]: "6"
+                - gridcell [ref=e359]:
+                  - generic [ref=e360]: SOP9
+                - gridcell [ref=e361]:
+                  - generic [ref=e362]: CRITICAL
+                - gridcell [ref=e363]:
+                  - generic [ref=e364]: CRITICAL EMERGENCY
+                - gridcell [ref=e365]:
+                  - generic [ref=e366]: EMERGENCY
+                - gridcell [ref=e367]:
+                  - generic [ref=e368]: CRITICAL
+                - gridcell [ref=e369]:
+                  - generic [ref=e370]: 13-09-2025 10:56 PM
+                - gridcell [ref=e371]:
+                  - generic [ref=e372]: 07-04-2026 03:53 PM
+                - gridcell [ref=e373]:
+                  - generic [ref=e374]:
+                    - img [ref=e375] [cursor=pointer]
+                    - img [ref=e377] [cursor=pointer]
+                    - img [ref=e379] [cursor=pointer]
+              - row [ref=e381]:
+                - gridcell [ref=e382]:
+                  - generic [ref=e383]: "7"
+                - gridcell [ref=e384]:
+                  - generic [ref=e385]: SOP71
+                - gridcell [ref=e386]:
+                  - generic [ref=e387]: AMBULANCE REQUIRED
+                - gridcell [ref=e388]:
+                  - generic [ref=e389]: AMBULANCE REQUIRED
+                - gridcell [ref=e390]:
+                  - generic [ref=e391]: AMBULANCE REQUIRED
+                - gridcell [ref=e392]:
+                  - generic [ref=e393]: AMBULANCE REQUIRED
+                - gridcell [ref=e394]:
+                  - generic [ref=e395]: 19-12-2025 05:11 PM
+                - gridcell [ref=e396]:
+                  - generic [ref=e397]: 07-04-2026 03:52 PM
+                - gridcell [ref=e398]:
+                  - generic [ref=e399]:
+                    - img [ref=e400] [cursor=pointer]
+                    - img [ref=e402] [cursor=pointer]
+                    - img [ref=e404] [cursor=pointer]
+              - row [ref=e406]:
+                - gridcell [ref=e407]:
+                  - generic [ref=e408]: "8"
+                - gridcell [ref=e409]:
+                  - generic [ref=e410]: SOP94
+                - gridcell [ref=e411]:
+                  - generic [ref=e412]: NO PARKING
+                - gridcell [ref=e413]:
+                  - generic [ref=e414]: NO PARKING
+                - gridcell [ref=e415]:
+                  - generic [ref=e416]: NO PARKING
+                - gridcell [ref=e417]:
+                  - generic [ref=e418]: NO PARKING
+                - gridcell [ref=e419]:
+                  - generic [ref=e420]: 07-04-2026 03:49 PM
+                - gridcell [ref=e421]:
+                  - generic [ref=e422]: 07-04-2026 03:50 PM
+                - gridcell [ref=e423]:
+                  - generic [ref=e424]:
+                    - img [ref=e425] [cursor=pointer]
+                    - img [ref=e427] [cursor=pointer]
+                    - img [ref=e429] [cursor=pointer]
+              - row [ref=e431]:
+                - gridcell [ref=e432]:
+                  - generic [ref=e433]: "9"
+                - gridcell [ref=e434]:
+                  - generic [ref=e435]: SOP92
+                - gridcell [ref=e436]:
+                  - generic [ref=e437]: BUS OVER SPEED
+                - gridcell [ref=e438]:
+                  - generic [ref=e439]: BUS OVER SPEED
+                - gridcell [ref=e440]:
+                  - generic [ref=e441]: BUS OVER SPEED
+                - gridcell [ref=e442]:
+                  - generic [ref=e443]: BUS OVER SPEED
+                - gridcell [ref=e444]:
+                  - generic [ref=e445]: 07-04-2026 02:56 PM
+                - gridcell [ref=e446]:
+                  - generic [ref=e447]: 07-04-2026 02:58 PM
+                - gridcell [ref=e448]:
+                  - generic [ref=e449]:
+                    - img [ref=e450] [cursor=pointer]
+                    - img [ref=e452] [cursor=pointer]
+                    - img [ref=e454] [cursor=pointer]
+              - row [ref=e456]:
+                - gridcell [ref=e457]:
+                  - generic [ref=e458]: "10"
+                - gridcell [ref=e459]:
+                  - generic [ref=e460]: SOP91
+                - gridcell [ref=e461]:
+                  - generic [ref=e462]: RALLIES/PROTEST
+                - gridcell [ref=e463]:
+                  - generic [ref=e464]: RALLIES/PROTEST
+                - gridcell [ref=e465]:
+                  - generic [ref=e466]: RALLIES/PROTEST
+                - gridcell [ref=e467]:
+                  - generic [ref=e468]: RALLIES/PROTEST
+                - gridcell [ref=e469]:
+                  - generic [ref=e470]: 07-04-2026 02:55 PM
+                - gridcell [ref=e471]:
+                  - generic [ref=e472]: 07-04-2026 02:56 PM
+                - gridcell [ref=e473]:
+                  - generic [ref=e474]:
+                    - img [ref=e475] [cursor=pointer]
+                    - img [ref=e477] [cursor=pointer]
+                    - img [ref=e479] [cursor=pointer]
+          - table [ref=e481]:
+            - rowgroup [ref=e482]:
+              - row [ref=e483]:
+                - cell [ref=e484]:
+                  - generic [ref=e487]:
+                    - paragraph [ref=e488]: "Rows per page:"
+                    - generic [ref=e489]:
+                      - combobox [ref=e490] [cursor=pointer]: "10"
+                      - textbox [aria-hidden]: "10"
+                    - paragraph [ref=e491]: 1-10 of 25
+                    - generic [ref=e492]:
+                      - button [disabled]
+                      - button [ref=e493] [cursor=pointer]
+  - generic [active] [ref=e498]:
+    - button "Close" [ref=e499] [cursor=pointer]
+    - group "Show/Hide Table Columns" [ref=e502]:
+      - generic [ref=e503]: Show Columns
+      - generic [ref=e504]:
+        - generic [ref=e505] [cursor=pointer]:
+          - checkbox "S.no" [checked] [ref=e507]
+          - generic [ref=e510]: S.no
+        - generic [ref=e511] [cursor=pointer]:
+          - checkbox "SOP ID" [checked] [ref=e513]
+          - generic [ref=e516]: SOP ID
+        - generic [ref=e517] [cursor=pointer]:
+          - checkbox "SOP Name" [checked] [ref=e519]
+          - generic [ref=e522]: SOP Name
+        - generic [ref=e523] [cursor=pointer]:
+          - checkbox "Description" [checked] [ref=e525]
+          - generic [ref=e528]: Description
+        - generic [ref=e529] [cursor=pointer]:
+          - checkbox "Category" [checked] [ref=e531]
+          - generic [ref=e534]: Category
+        - generic [ref=e535] [cursor=pointer]:
+          - checkbox "Sub Category" [checked] [ref=e537]
+          - generic [ref=e540]: Sub Category
+        - generic [ref=e541] [cursor=pointer]:
+          - checkbox "Created Date & Time" [checked] [ref=e543]
+          - generic [ref=e546]: Created Date & Time
+        - generic [ref=e547] [cursor=pointer]:
+          - checkbox "Modified Date & Time" [checked] [ref=e549]
+          - generic [ref=e552]: Modified Date & Time
+        - generic [ref=e553] [cursor=pointer]:
+          - checkbox "Options" [checked] [ref=e555]
+          - generic [ref=e558]: Options

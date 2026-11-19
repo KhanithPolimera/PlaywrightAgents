@@ -1,0 +1,127 @@
+- generic [ref=e4]:
+  - banner [ref=e6]:
+    - generic [ref=e7]:
+      - button "menu" [ref=e559] [cursor=pointer]
+      - generic [ref=e11]:
+        - img "Nature" [ref=e560]
+        - generic [ref=e13]:
+          - generic [ref=e14]: INTEGRATED TRAFFIC MANAGEMENT SYSTEM
+          - generic [ref=e15]: ஒருங்கிணைந்த போக்குவரத்து மேலாண்மை அமைப்பு
+      - generic [ref=e16]:
+        - button "INDIA" [ref=e561] [cursor=pointer]
+        - generic [ref=e25]:
+          - combobox [ref=e26] [cursor=pointer]: English
+          - textbox [aria-hidden]: en
+        - button [ref=e562] [cursor=pointer]:
+          - generic [ref=e28]:
+            - img "SOS" [ref=e563]
+            - generic: "0"
+        - button "incident notifications" [ref=e564] [cursor=pointer]:
+          - generic [ref=e31]: "0"
+        - button "theme" [ref=e565] [cursor=pointer]
+        - button "account of current user" [ref=e566] [cursor=pointer]
+  - generic [ref=e40]:
+    - generic [ref=e41]:
+      - generic [ref=e42]: INCIDENT MANAGEMENT
+      - tablist [ref=e45]:
+        - tab "INCIDENTS" [ref=e567] [cursor=pointer]
+        - tab "SOP List" [ref=e568] [cursor=pointer]
+        - tab "Step Types" [active] [selected] [ref=e569] [cursor=pointer]
+      - generic [ref=e50]: 19-11-2026 04:39 PM
+    - generic [ref=e722]:
+      - toolbar "Table Toolbar" [ref=e723]:
+        - generic [ref=e724]:
+          - button "Search" [ref=e725] [cursor=pointer]
+          - button "Download CSV" [ref=e728] [cursor=pointer]
+          - button "View Columns" [ref=e732] [cursor=pointer]
+          - button "Filter Table" [ref=e736] [cursor=pointer]
+      - grid [ref=e740]:
+        - caption [ref=e741]
+        - rowgroup [ref=e742]:
+          - row [ref=e743]:
+            - columnheader "S.no" [ref=e744]
+            - columnheader "Name" [ref=e745]
+            - columnheader "Description" [ref=e746]
+            - columnheader "Min Time Granted" [ref=e747]
+            - columnheader "Max Time Granted" [ref=e748]
+            - columnheader "Actions" [ref=e749]
+        - rowgroup [ref=e750]:
+          - row [ref=e751]:
+            - gridcell "1" [ref=e752]
+            - gridcell "Escalation" [ref=e754]
+            - gridcell "Escalation" [ref=e756]
+            - gridcell "10" [ref=e758]
+            - gridcell "10" [ref=e760]
+            - gridcell [ref=e762]:
+              - generic [ref=e763]:
+                - button "edit" [ref=e764] [cursor=pointer]
+                - button "edit" [ref=e767] [cursor=pointer]
+                - button "delete" [disabled]
+          - row [ref=e770]:
+            - gridcell "2" [ref=e771]
+            - gridcell "Start" [ref=e773]
+            - gridcell "Start" [ref=e775]
+            - gridcell "0" [ref=e777]
+            - gridcell "60" [ref=e779]
+            - gridcell [ref=e781]:
+              - generic [ref=e782]:
+                - button "edit" [ref=e783] [cursor=pointer]
+                - button "edit" [ref=e786] [cursor=pointer]
+                - button "delete" [disabled]
+          - row [ref=e789]:
+            - gridcell "3" [ref=e790]
+            - gridcell "Validation" [ref=e792]
+            - gridcell "Validation Step" [ref=e794]
+            - gridcell "30" [ref=e796]
+            - gridcell "40" [ref=e798]
+            - gridcell [ref=e800]:
+              - generic [ref=e801]:
+                - button "edit" [ref=e802] [cursor=pointer]
+                - button "edit" [ref=e805] [cursor=pointer]
+                - button "delete" [disabled]
+          - row [ref=e808]:
+            - gridcell "4" [ref=e809]
+            - gridcell "Close" [ref=e811]
+            - gridcell "Close" [ref=e813]
+            - gridcell "10" [ref=e815]
+            - gridcell "10" [ref=e817]
+            - gridcell [ref=e819]:
+              - generic [ref=e820]:
+                - button "edit" [ref=e821] [cursor=pointer]
+                - button "edit" [ref=e824] [cursor=pointer]
+                - button "delete" [disabled]
+          - row [ref=e827]:
+            - gridcell "5" [ref=e828]
+            - gridcell "Share information" [ref=e830]
+            - gridcell "Share Information" [ref=e832]
+            - gridcell "10" [ref=e834]
+            - gridcell "10" [ref=e836]
+            - gridcell [ref=e838]:
+              - generic [ref=e839]:
+                - button "edit" [ref=e840] [cursor=pointer]
+                - button "edit" [ref=e843] [cursor=pointer]
+                - button "delete" [disabled]
+          - row [ref=e846]:
+            - gridcell "6" [ref=e847]
+            - gridcell "Assign" [ref=e849]
+            - gridcell "Assigning Field officer" [ref=e851]
+            - gridcell "10" [ref=e853]
+            - gridcell "10" [ref=e855]
+            - gridcell [ref=e857]:
+              - generic [ref=e858]:
+                - button "edit" [ref=e859] [cursor=pointer]
+                - button "edit" [ref=e862] [cursor=pointer]
+                - button "delete" [disabled]
+      - table [ref=e865]:
+        - rowgroup [ref=e866]:
+          - row [ref=e867]:
+            - cell [ref=e868]:
+              - generic [ref=e871]:
+                - paragraph [ref=e872]: "Rows per page:"
+                - generic [ref=e873]:
+                  - 'combobox "Rows per page: 10" [ref=e874] [cursor=pointer]': "10"
+                  - textbox [aria-hidden]: "10"
+                - paragraph [ref=e875]: 1-6 of 6
+                - generic [ref=e876]:
+                  - button "Previous Page" [disabled]
+                  - button "Next Page" [disabled]
